@@ -1,0 +1,1 @@
+# eskilinux-calamares-ayar
