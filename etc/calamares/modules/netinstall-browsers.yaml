@@ -1,0 +1,20 @@
+- name: "Tarayıcı"
+  description: "Tarayıcı"
+  hidden: false
+  selected: false
+  critical: false
+  expanded: true
+  packages:
+    - firefox-adblock-plus
+    - firefox-i18n-$LOCALE
+    - torbrowser-launcher
+    - edk2-ovmf
+    - keybase
+    - keybase-gui
+    - kbfs
+    - onboard
+    - virt-manager
+    - qemu
+    - vde2
+    - ebtables
+    - bridge-utils
